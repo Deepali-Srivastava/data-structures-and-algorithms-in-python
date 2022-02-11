@@ -22,9 +22,9 @@ searchValue = int(input("Enter the search value : "))
 index = Search(a, n, searchValue)
 
 if index == -1:
-    print("Value " , searchValue , " not present in the list")
+    print("Value ", searchValue ," not present in the list")
 else:
-    print("Value " , searchValue , " present at index " , index)
+    print("Value ", searchValue ," present at index " , index)
 
     
 
