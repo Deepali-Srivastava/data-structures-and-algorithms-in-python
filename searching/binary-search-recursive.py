@@ -8,9 +8,9 @@ def _search(a, first, last, searchValue):
     if (first > last):
         return -1
     mid = (first + last) // 2
-    if searchValue > a[mid]:	#Search in right half
+    if searchValue > a[mid]:	 #Search in right half
         return _search(a, mid+1, last, searchValue)
-    elif searchValue < a[mid]:	#Search in left half
+    elif searchValue < a[mid]:	 #Search in left half
         return _search(a, first, mid-1, searchValue)
     else:
         return mid
