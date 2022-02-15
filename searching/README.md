@@ -18,6 +18,8 @@ This [“Data Structures and Algorithms in Python”]( https://www.udemy.com/cou
 [![exception-handling-in-python](https://user-images.githubusercontent.com/98641125/153196201-83c1a210-9c4f-4ba5-a56f-6aa4d4c551b2.png)]( https://www.udemy.com/course/exception-handling-in-python/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-java](https://user-images.githubusercontent.com/98641125/153196280-c2028f4b-d27b-432d-ad5a-9b04be2a3717.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-java/?couponCode=GITHUBSTUDENT)
 [![linux-commands](https://user-images.githubusercontent.com/98641125/153196567-96b3396c-8ee3-4233-b8fc-66c6b3bd830c.png)]( https://www.udemy.com/course/linux-commands/?couponCode=GITHUBSTUDENT)
+[![data-structures- and-algorithms-in-csharp](https://user-images.githubusercontent.com/98641125/153196407-99441e67-24a7-4fa0-aaea-78cb39743282.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-csharp/?couponCode=GITHUBSTUDENT)
+[![data-structures- and-algorithms-in-c-plus-plus](https://user-images.githubusercontent.com/98641125/153196522-2412c993-1055-4322-8487-4133537566c9.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-plus-plus/?couponCode=GITHUBSTUDENT)
 
 ## Copyright
 © Copyright Deepali Srivastava : All rights reserved.
