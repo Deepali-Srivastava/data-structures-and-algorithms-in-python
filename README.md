@@ -5,7 +5,6 @@ This [Data Structures and Algorithms In Python (DSA)](https://coursegalaxy.gumro
 ### About the Course
  * Thoroughly detailed course with complete working programs
  * Contains lots of animations to help you visualize the concepts
- * Includes over 100 Quiz questions
  * Builds a solid foundation in Data Structures and Algorithms
  * Prepares you for coding interviews 
  * Lifetime Access
