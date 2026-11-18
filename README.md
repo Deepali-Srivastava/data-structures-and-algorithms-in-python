@@ -3,7 +3,6 @@
 This [Data Structures and Algorithms In Python (DSA)](https://coursegalaxy.gumroad.com/l/data-structures-algorithms-python-dsa) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
 ### About the Course
- * Instructor - Deepali Srivastava, Author of [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
  * Thoroughly detailed course with complete working programs
  * Contains lots of animations to help you visualize the concepts
  * Includes over 100 Quiz questions
